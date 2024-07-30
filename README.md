@@ -4,8 +4,5 @@
 
 
 - 🔭 I’m currently working on devoloping my skill on python full stack development.
-- 🌱 I’m currently learning python.
-- 🤔 I’m looking for help with github and its functions.
 - 📫 How to reach me: linkedin (linkedin.com/in/aiswaryas03)
-- 😄 Pronouns: she/her
--->
+
