@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm passionate about technology, design, and problem-solving. Here’s a little about me:
 
 - 🌱 **Currently Learning:** Advancing my skills in Python Full Stack Development and Artificial Intelligence.  
-- 🎯 **Professional Journey:** Recently started as a **QC Trainee**, honing my attention to detail and quality assurance skills.  
+- 🎯 **Professional Journey:** Recently started as a **QA Trainee**, honing my attention to detail and quality assurance skills.  
 - 🖥️ **Tech Skills:** Proficient in Python, Pandas, NumPy, Matplotlib, and responsive web design with HTML and CSS.  
 - 🤝 **Collaboration:** Open to contributing to projects in machine learning, web development, or quality control.  
 - 📫 **Connect with Me:**  
